@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstrapi_sqlite=self.webpackChunkstrapi_sqlite||[]).push([[3043],{19354:function(s){s.exports=JSON.parse('{"SettingsNav.link.settings":"\u7535\u5b50\u90ae\u4ef6\u8bbe\u7f6e","SettingsNav.section-label":"\u7535\u5b50\u90ae\u4ef6\u63d2\u4ef6"}')}}]);
